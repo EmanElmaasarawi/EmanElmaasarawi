@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine learning and Deep learning
 # CAPMAS Interactive Projects  
 
-![CAPMAS](https://www.capmas.gov.eg/Images/logo.png)  
+![CAPMAS](https://www.capmas.gov.eg/Contents-New/images/Logo2.jpg)  
 
 ## Overview  
 This repository contains interactive projects developed for CAPMAS (Central Agency for Public Mobilization and Statistics). These projects focus on educational tools, statistical visualization, and GIS-based applications using .NET, JavaScript, and AI-driven insights.  
