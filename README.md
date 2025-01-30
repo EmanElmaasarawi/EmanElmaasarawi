@@ -1,7 +1,6 @@
-## Hi there 👋
+## Welcome to my GitHub profile. 👋
 
-<!--
-**Eman Elmaasarawi** is a ✨ Machine Learning Engineer ✨ Welcome to my GitHub profile.
+**Eman Elmaasarawi** is a ✨ Machine Learning Engineer ✨ 
 
 Here are some ideas to get you started:
 
@@ -28,4 +27,4 @@ This repository contains interactive projects developed for CAPMAS (Central Agen
 - **Database**: SQL Server, PostgreSQL, SQLite  
 - **GIS Tools**: ArcGIS, Esri Web App Builder  
 - **AI & ML**: Python, Azure AI, MLflow, Hugging Face  
--->
+
