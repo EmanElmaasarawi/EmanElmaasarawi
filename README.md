@@ -2,8 +2,6 @@
 
 **Eman Elmaasarawi** is a ✨ Machine Learning Engineer ✨ 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on CAPMAS
 - 🌱 I’m currently learning Machine learning and Deep learning
 # CAPMAS Interactive Projects  
